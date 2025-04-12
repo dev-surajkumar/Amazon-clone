@@ -2,13 +2,11 @@
 
 A fully responsive front-end clone of the Amazon homepage built using HTML, CSS, and JavaScript. This project replicates the design and layout of Amazon's homepage, including features like navigation menus, product sliders, and dynamic UI components.
 
-## 📸 Preview
 
-![Amazon Clone Screenshot](preview-image.png) <!-- Replace with actual screenshot or remove -->
 
 ## 🌐 Live Site
 
-[Click here to view the live site](https://<your-github-username>.github.io/Amazon-Clone/) <!-- Replace with actual link -->
+[[Click here to view the live site]https://dev-surajkumar.github.io/Amazon-clone/
 
 ## 🚀 Features
 
